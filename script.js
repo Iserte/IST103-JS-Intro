@@ -16,3 +16,10 @@ const todo_list = [
   "Get rich",
   "Travel a lot",
 ];
+
+const phone = {
+  brand: "Apple Inc.",
+  model: "iPhone 16 Pro Max",
+  color: "Natural Titanium",
+  storageSize: 128,
+};
