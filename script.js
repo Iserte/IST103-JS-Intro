@@ -23,3 +23,8 @@ const phone = {
   color: "Natural Titanium",
   storageSize: 128,
 };
+
+console.log(`My phone brand is: ${phone.brand}`);
+console.log(`My phone model is: ${phone.model}`);
+console.log(`My phone color is: ${phone.color}`);
+console.log(`My phone storage size is: ${phone.storageSize} gb`);
